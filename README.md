@@ -30,6 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="616" alt="image" src="https://github.com/juanpablobracco/Age-calculator-app-solution/assets/64668332/4dd22dbe-e4d2-45de-a834-9bd0bf6d800a">
+
 
 ### Links
 
